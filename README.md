@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VidyaV1993
-- 👀 I’m interested in Embedded software, FreeRTOS, Automotive software development and testing, 
-- 🌱 I’m currently learning FreeRTOS, Automotive Testing and Embedded software development
+- 👀 I’m interested in Embedded software, FreeRTOS, Automotive software development and testing, CAN Bus Network Development etc...
+- 🌱 I’m currently learning FreeRTOS, Automotive Testing and Embedded software development etc...
 - 💞️ I’m looking to collaborate on GitHub
 - 📫 How to reach me ... Email: vidyakv.nssece@gmail.com
 
